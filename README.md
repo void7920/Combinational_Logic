@@ -1,4 +1,4 @@
-# Combinational_Logic
+# Combinational Logic
 
 ---
 

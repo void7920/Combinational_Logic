@@ -20,7 +20,8 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Full_Subtractor_Structural(br_out,     // borrow out
+module Full_Subtractor_Structural(
+    br_out,     // borrow out
     d,          // difference
     a,          // a
     b,          // b
